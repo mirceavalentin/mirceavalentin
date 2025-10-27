@@ -6,10 +6,10 @@
 ## 🌐 Let's connect:
 <p align="center">
 
-  [![Personal Site](https://img.shields.io/badge/Site_Personal-FF5733?style=for-the-badge&logo=wordpress&logoColor=white)]([marinescumv.ro])
+  [![Personal Site](https://img.shields.io/badge/Site_Personal-FF5733?style=for-the-badge&logo=wordpress&logoColor=white)](marinescumv.ro)
   &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mirceavalentin/])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirceavalentin/)
   &nbsp;
-  [![Email](https://img.shields.io/badge/Contact_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[mirceamv@proton.me])
+  [![Email](https://img.shields.io/badge/Contact_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirceamv@proton.me)
   
 </p>
