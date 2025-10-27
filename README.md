@@ -6,7 +6,7 @@
 ## 🌐 Let's connect:
 <p align="center">
 
-  [![Personal Site](https://img.shields.io/badge/Site_Personal-FF5733?style=for-the-badge&logo=wordpress&logoColor=white)](marinescumv.ro)
+  [![Personal Site](https://img.shields.io/badge/Site_Personal-FF5733?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.marinescumv.ro)
   &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirceavalentin/)
   &nbsp;
